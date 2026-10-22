@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utilizas este código, cita el libro y la versión del repositorio que has consultado."
+title: "El motor de trading con IA — código reproducible"
+authors:
+  - family-names: "Charneco Mateos"
+    given-names: "Juan Antonio"
+version: 1.0.0
+date-released: 2026-10-22
+type: software
