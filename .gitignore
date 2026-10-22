@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+salida/
+.DS_Store
+Thumbs.db
