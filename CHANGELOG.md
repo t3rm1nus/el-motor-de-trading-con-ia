@@ -4,4 +4,4 @@
 
 - Versión inicial del código complementario del libro.
 - Experimento reproducible con datos sintéticos.
-- Pruebas automatizadas y flujo de integración continua.
+- Pruebas automatizadas (pytest).
